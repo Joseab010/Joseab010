@@ -19,7 +19,7 @@
 
 - 🎓 Estudiante de último curso de **Ingeniería Informática** en la **Universidad Pablo de Olavide** (Sevilla).
 - 💻 Me centro en el **desarrollo de software**: backend con **Python**, bases de datos y aplicaciones desplegadas con **Docker**.
-- 🤖 Me interesa la **Inteligencia Artificial** aplicada a productos reales, como los sistemas de recomendación.
+- 🤖 Especial interés en la **Inteligencia Artificial** aplicada a productos reales.
 - ☁️ Formándome en **Cloud** para diseñar y desplegar aplicaciones escalables.
 - 🚀 Buscando mi primera oportunidad profesional como desarrollador.
 - 📍 Sevilla, España · 🇪🇸 Español · 🇬🇧 Inglés <!-- ajusta tu nivel -->
