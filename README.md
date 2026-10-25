@@ -1,9 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=José%20Manuel%20Amorín&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollo%20de%20Software%20·%20IA%20·%20Cloud&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=José%20Manuel%20Amorín&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20·%20AI%20·%20Cloud&descAlignY=58&descSize=18" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+software+%F0%9F%92%BB;Python+%7C+SQL+%7C+Docker;Inteligencia+Artificial+%F0%9F%A4%96;Aprendiendo+Cloud+%E2%98%81%EF%B8%8F;Abierto+a+oportunidades+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Python+%7C+SQL+%7C+Docker;Artificial+Intelligence+%F0%9F%A4%96;Learning+Cloud+%E2%98%81%EF%B8%8F;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,20 +15,20 @@
 
 ---
 
-### 👋 Sobre mí
+### 👋 About me
 
-- 🎓 Estudiante de último curso de **Ingeniería Informática** en la **Universidad Pablo de Olavide** (Sevilla).
-- 💻 Me centro en el **desarrollo de software**: backend con **Python**, bases de datos y aplicaciones desplegadas con **Docker**.
-- 🤖 Especial interés en la **Inteligencia Artificial** aplicada a productos reales.
-- ☁️ Formándome en **Cloud** para diseñar y desplegar aplicaciones escalables.
-- 🚀 Buscando mi primera oportunidad profesional como desarrollador.
-- 📍 Sevilla, España · 🇪🇸 Español · 🇬🇧 Inglés <!-- ajusta tu nivel -->
+- 🎓 Final-year **Computer Engineering** student at **Universidad Pablo de Olavide** (Seville, Spain).
+- 💻 Focused on **software development**: backend with **Python**, databases and applications deployed with **Docker**.
+- 🤖 Interested in **Artificial Intelligence** applied to real products, such as recommendation systems.
+- ☁️ Learning **Cloud** to design and deploy scalable applications.
+- 🚀 Looking for my first professional opportunity as a developer.
+- 📍 Seville, Spain · 🇪🇸 Spanish (native) · 🇬🇧 English (C1)
 
 ---
 
-### 🛠️ Tecnologías
+### 🛠️ Tech stack
 
-<!-- Deja SOLO las que puedas defender en una entrevista -->
+<!-- Keep ONLY what you can defend in an interview -->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -43,7 +43,7 @@
 
 ---
 
-### 🚀 Proyecto destacado
+### 🚀 Featured project
 
 <table>
 <tr>
@@ -52,11 +52,11 @@
 </td>
 <td>
 
-**[UPOMAX](https://github.com/Joseab010/UPOMAX)** · Plataforma para registrar, valorar y descubrir películas y series, desarrollada como módulo de **Odoo 19**.
+**[UPOMAX](https://github.com/Joseab010/UPOMAX)** · A platform to log, rate and discover movies and TV shows, built as an **Odoo 19** module.
 
-- 🤖 Recomendaciones personalizadas con **machine learning** (filtrado colaborativo con NumPy/SciPy, reentrenado a diario).
-- 🗂️ 17 modelos de datos, 43 validaciones de negocio, informes PDF y componentes **OWL** propios.
-- 🐳 Desplegable en un comando con **Docker** (Odoo + PostgreSQL + pgAdmin).
+- 🤖 Personalized recommendations with **machine learning** (collaborative filtering with NumPy/SciPy, retrained daily).
+- 🗂️ 17 data models, 43 business-rule validations, PDF reports and custom **OWL** components.
+- 🐳 One-command deployment with **Docker** (Odoo + PostgreSQL + pgAdmin).
 
 `Python` `Odoo` `PostgreSQL` `JavaScript (OWL)` `Docker` `NumPy`
 
@@ -66,7 +66,7 @@
 
 ---
 
-### 📊 Estadísticas
+### 📊 GitHub stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joseab010&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
@@ -77,6 +77,11 @@
   <img src="https://streak-stats.demolab.com?user=Joseab010&theme=github-dark-blue&hide_border=true" />
 </div>
 
+---
+
+<div align="center">
+  <sub>💬 Let's talk! Reach me on LinkedIn or by email.</sub>
+</div>
 ---
 
 <div align="center">
